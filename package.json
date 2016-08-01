@@ -1,0 +1,25 @@
+{
+  "name": "bs4-workflow",
+  "version": "1.0.0",
+  "description": "Gulp Workflow with Bootstrap",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpablogdl/bs4-workflow.git"
+  },
+  "author": "juan pablo de la torre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanpablogdl/bs4-workflow/issues"
+  },
+  "homepage": "https://github.com/juanpablogdl/bs4-workflow#readme"
+}

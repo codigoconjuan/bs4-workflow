@@ -1,0 +1,21 @@
+{
+  "name": "bs4-workflow",
+  "description": "Gulp Workflow with Bootstrap",
+  "main": "index.js",
+  "authors": [
+    "juan pablo de la torre"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/juanpablogdl/bs4-workflow",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "v4.0.0-alpha.3"
+  }
+}
